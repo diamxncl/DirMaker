@@ -38,7 +38,7 @@ First update your linux:
   ```
 Then install the program: 
   ```bash
-  apt-get install g++
+  sudo apt-get install g++
   ```
 
 To compile the file with g++, do:
